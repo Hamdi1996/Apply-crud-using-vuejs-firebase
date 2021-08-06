@@ -9,11 +9,11 @@ import 'firebase/firestore'
 
 
 var firebaseConfig = {
-    apiKey: "AIzaSyDk4DGYmBZQ5z7KpLksnjZKKWKzFgBO4qs",
-    authDomain: "vuejs-62a49.firebaseapp.com",
-    databaseURL: "https://vuejs-62a49-default-rtdb.firebaseio.com",
-    projectId: "vuejs-62a49",
-    storageBucket: "vuejs-62a49.appspot.com",
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
 
   };
   // Initialize Firebase
